@@ -5,4 +5,4 @@ El proyecto se realio usando la tecnologia de python consumiendo la APi de twitt
 Usando un archivo csv se guardaron las publicaciones referentes a los ultimos 7 dias segun las restricciones que producia la Api de twitter, asi mismo para obtener el menor uso posible de memoria se decidio almacenar cada pulicacion en el archivo debido a que eran demasiados.
 
 ## Analisis
-Se generaron datos para analizar mejor el comportamiento de esta informacion como serian: Tweets por dia, Extraccion de palabras y la frecuencia de estas mismas, Extraccion de partes del lenguaje (Verbos, Sustantivos, Adjetivos, etc), TF-IDF, toda la informacion esta proporcionada visualmente dentro del archivo pandas [proyectobigdata.ipynb](Arnovis27/Proyecto_Bigdata/proyectobigdata.ipynb)
+Se generaron datos para analizar mejor el comportamiento de esta informacion como serian: Tweets por dia, Extraccion de palabras y la frecuencia de estas mismas, Extraccion de partes del lenguaje (Verbos, Sustantivos, Adjetivos, etc), TF-IDF, toda la informacion esta proporcionada visualmente dentro del archivo pandas [proyectobigdata.ipynb](proyectobigdata.ipynb)
